@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerGraph AI
 
 CareerGraph AI is a graph-powered career intelligence platform built as a modern React + Vite application. It models career growth as a connected network between users, skills, roles, technologies, companies, and projects so that recommendations are explainable and relationship-driven.
@@ -92,3 +93,6 @@ npm run build
 - Add company and role comparison panels
 - Add authenticated profiles and saved career graphs
 - Integrate a real graph API during backend implementation
+=======
+# Wexa-ai-graph-
+>>>>>>> 641eb78e49f4de12025d14f594437d31fda39184
